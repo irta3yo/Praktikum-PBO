@@ -1,4 +1,4 @@
-package Titik;
+package Praktikum1;
 
 public class Titik {
     float absis;
