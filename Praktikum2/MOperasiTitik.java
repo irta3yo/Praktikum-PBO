@@ -9,7 +9,7 @@ public class MOperasiTitik {
         System.out.println("titik setelah refleksi sb X: " + "titik(" + t1.getAbsis() + ", " + t1.refleksiY(t1) + ")");
         System.out.println("titik setelah refleksi sb Y: " + "titik(" + t1.refleksiX(t1) + ", " + t1.getOrdinat() + ")");
 
-        //tidak bisa diakses melalui refleksiSumbuX dan refleksiSumbuY dikarenakan akses private -- Berhasil
+        //refleksiSumbuX dan refleksiSumbuY modifier private (tidak bisa diakses)
         // System.out.println(t1.refleksiSumbuX(t1));
         // System.out.println(t1.refleksiSumbuY(t1));
 
