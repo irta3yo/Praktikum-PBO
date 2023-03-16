@@ -9,7 +9,7 @@ public class MKubus{
         Kubus kubus = new Kubus(bujurSangkar);
 
         // print luas dan volume
-        System.out.println("luas kubus : " + kubus.hitungLuasAlas());
+        System.out.println("luas alas kubus : " + kubus.hitungLuasAlas());
         System.out.println("volume kubus : " + kubus.hitungVolume());
     }
 }
