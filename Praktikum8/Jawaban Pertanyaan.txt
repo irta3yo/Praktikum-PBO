@@ -1,0 +1,8 @@
+Cobalah pada saat praktikum : Gantilah ‘T’ (dan segala T) pada BangunDatarGeneric.java diganti
+dengan karakter yang lain seperti, T1,T2,T1234. Simpulkan apa yang anda lakukan ! 
+
+Jika T dalam BangunDatarGeneric.java diganti dengan karakter lain seperti T1, T2, atau T1234, itu berarti kita mengganti nama parameter tipe generik yang digunakan dalam kelas BangunDatarGeneric.
+
+Perubahan ini tidak mempengaruhi fungsionalitas kode secara keseluruhan. Karakter yang digunakan sebagai nama parameter tipe generik tidak memiliki arti khusus dan dapat diganti dengan karakter atau kata apa pun yang valid dalam bahasa Java.
+
+Misalnya, jika kita mengganti T dengan T1 dalam BangunDatarGeneric.java, maka perubahan tersebut akan mencakup penggantian semua kemunculan T dengan T1 di seluruh kelas BangunDatarGeneric.
